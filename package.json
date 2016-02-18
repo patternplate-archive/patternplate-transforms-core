@@ -1,6 +1,6 @@
 {
   "name": "patternplate-transforms-core",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "shared functionality toolbelt for patternplate transforms",
   "main": "distribution/index.js",
   "files": [
