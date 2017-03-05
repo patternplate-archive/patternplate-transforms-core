@@ -1,4 +1,6 @@
 # patternplate-transforms-core
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/sinnerschrader/patternplate-transforms-core.svg)](https://greenkeeper.io/)
 [patternplate](/sinnerschrader/patternplate) shared functionality toolbelt for patternplate transforms
 
 ## Installation
