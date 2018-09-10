@@ -1,3 +1,6 @@
+> # ⚠️ Deprecated
+> Use instead: https://patternplate.github.io/
+
 # patternplate-transforms-core
 [patternplate](/sinnerschrader/patternplate) shared functionality toolbelt for patternplate transforms
 
